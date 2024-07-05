@@ -15,8 +15,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m a junior frontend developer. 
+- 🔭 I’m currently working on skill development.  <br/>
+- 🌱 I’m currently learning Next JS.  <br/>
+- 👯 I’m looking to collaborate on teamwork.  <br/>
+- 💬 Ask me about Web Development.  <br/>
 
-- 🌱 I’m currently learning Next.js and Typescript.
 
 
  - 📫 Reach me at **sohagislambd1998@gmail.com**  
